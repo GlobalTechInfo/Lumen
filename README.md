@@ -2,6 +2,9 @@
 
 ![CI](https://github.com/GlobalTechInfo/Lumen/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Release](https://img.shields.io/github/v/release/GlobalTechInfo/Lumen)
+
+[![Download APK](https://img.shields.io/badge/Download-APK-amber?style=for-the-badge)](https://github.com/GlobalTechInfo/Lumen/releases/latest)
 
 **Offline-first screen time. No account. No cloud. No shame.**
 
